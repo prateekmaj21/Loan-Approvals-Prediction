@@ -1,0 +1,5 @@
+1. Image files of GUI
+2. Data Analysis and Model Building Python Notebook
+3. Sample Data Prediction Notebook
+4. Model and Scaler Dump File
+5. Python Executable File
