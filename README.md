@@ -10,11 +10,11 @@ Problem Statement: Create a Machine Learning Model for Loan Approval.
 
 ### Apart from the Main Notebook and Presentation, there are some other files which include:
 
-Original Data File
-Notebook to demonstrate prediction of a test input
-Model and Scaler file
-GUI Application Python File
-Some Screenshots of the GUI Application.
+1. Original Data File
+2. Notebook to demonstrate prediction of a test input
+3. Model and Scaler file
+4. GUI Application Python File
+5. Some Screenshots of the GUI Application.
 
 ### Done By:
 
