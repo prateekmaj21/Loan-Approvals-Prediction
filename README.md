@@ -1,6 +1,8 @@
 # Loan-Approvals-Prediction
 Problem Statement: Create a Machine Learning Model for Loan Approval.
 
+How to Run: cd to Directory, then :Python project_final_gui.py
+
 # About Dataset
 ●	The loan approval dataset is a collection of financial records and associated information used to determine the eligibility of individuals or organizations for obtaining loans from a lending institution.
 
